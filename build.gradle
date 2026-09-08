@@ -10,8 +10,8 @@ repositories {
 }
 
 ext{
-    junitVersion = '5.8.2'
-    reactorVersion = '3.4.21'
+    junitVersion = '5.9.2'
+    reactorVersion = '3.5.9'
 }
 
 dependencies {
